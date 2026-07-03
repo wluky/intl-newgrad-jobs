@@ -548,7 +548,8 @@ export function enabledEntries(registry) {
 }
 ```
 
-Create `companies.json` (starter seed — every entry is a known/likely H-1B sponsor; **slugs are verified in Step 4b**):
+Create `companies.json` (starter seed — every entry is a known H-1B sponsor
+with an ATS handle **verified live in Step 4b** to return a non-empty board):
 ```json
 [
   { "name": "Databricks", "provider": "greenhouse", "slug": "databricks" },
@@ -559,12 +560,17 @@ Create `companies.json` (starter seed — every entry is a known/likely H-1B spo
   { "name": "Discord", "provider": "greenhouse", "slug": "discord" },
   { "name": "Instacart", "provider": "greenhouse", "slug": "instacart" },
   { "name": "Affirm", "provider": "greenhouse", "slug": "affirm" },
+  { "name": "Vercel", "provider": "greenhouse", "slug": "vercel" },
+  { "name": "Robinhood", "provider": "greenhouse", "slug": "robinhood" },
+  { "name": "GitLab", "provider": "greenhouse", "slug": "gitlab" },
+  { "name": "Anthropic", "provider": "greenhouse", "slug": "anthropic" },
+  { "name": "Pinterest", "provider": "greenhouse", "slug": "pinterest" },
+  { "name": "Dropbox", "provider": "greenhouse", "slug": "dropbox" },
+  { "name": "Reddit", "provider": "greenhouse", "slug": "reddit" },
   { "name": "Ramp", "provider": "ashby", "slug": "ramp" },
   { "name": "Notion", "provider": "ashby", "slug": "notion" },
   { "name": "Linear", "provider": "ashby", "slug": "linear" },
-  { "name": "Vercel", "provider": "ashby", "slug": "vercel" },
-  { "name": "Plaid", "provider": "lever", "slug": "plaid" },
-  { "name": "Netflix", "provider": "lever", "slug": "netflix" }
+  { "name": "OpenAI", "provider": "ashby", "slug": "openai" }
 ]
 ```
 

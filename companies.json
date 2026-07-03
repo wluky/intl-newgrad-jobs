@@ -1,0 +1,21 @@
+[
+  { "name": "Databricks", "provider": "greenhouse", "slug": "databricks" },
+  { "name": "Stripe", "provider": "greenhouse", "slug": "stripe" },
+  { "name": "Coinbase", "provider": "greenhouse", "slug": "coinbase" },
+  { "name": "Airtable", "provider": "greenhouse", "slug": "airtable" },
+  { "name": "Samsara", "provider": "greenhouse", "slug": "samsara" },
+  { "name": "Discord", "provider": "greenhouse", "slug": "discord" },
+  { "name": "Instacart", "provider": "greenhouse", "slug": "instacart" },
+  { "name": "Affirm", "provider": "greenhouse", "slug": "affirm" },
+  { "name": "Vercel", "provider": "greenhouse", "slug": "vercel" },
+  { "name": "Robinhood", "provider": "greenhouse", "slug": "robinhood" },
+  { "name": "GitLab", "provider": "greenhouse", "slug": "gitlab" },
+  { "name": "Anthropic", "provider": "greenhouse", "slug": "anthropic" },
+  { "name": "Pinterest", "provider": "greenhouse", "slug": "pinterest" },
+  { "name": "Dropbox", "provider": "greenhouse", "slug": "dropbox" },
+  { "name": "Reddit", "provider": "greenhouse", "slug": "reddit" },
+  { "name": "Ramp", "provider": "ashby", "slug": "ramp" },
+  { "name": "Notion", "provider": "ashby", "slug": "notion" },
+  { "name": "Linear", "provider": "ashby", "slug": "linear" },
+  { "name": "OpenAI", "provider": "ashby", "slug": "openai" }
+]
