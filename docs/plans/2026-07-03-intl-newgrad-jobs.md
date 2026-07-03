@@ -161,7 +161,10 @@ Create `src/filters.mjs`:
 // Pure title/location/text classification. No I/O.
 
 const INTERN_RE = /\b(intern|internship|co-?op)\b/i;
-const SENIOR_RE = /\b(senior|sr\.?|staff|principal|\blead\b|manager|mgr|director|head\s+of|vp|vice\s+president|architect|iii|iv|\bv\b)\b/i;
+// "manager"/"mgr" intentionally excluded — it would wrongly reject entry roles
+// like "Associate Product Manager". Bare "Product Manager" / "Engineering
+// Manager" are still dropped for lacking any positive entry signal.
+const SENIOR_RE = /\b(senior|sr\.?|staff|principal|\blead\b|director|head\s+of|vp|vice\s+president|architect|iii|iv|\bv\b)\b/i;
 const ENTRY_RE = /\b(new\s*grad|new\s*graduate|entry[-\s]?level|junior|jr\.?|associate|graduate|early\s*career|apprentice|trainee|campus|university\s*grad|\bi\b|\bii\b)\b/i;
 
 export function classifyType(title = '') {
