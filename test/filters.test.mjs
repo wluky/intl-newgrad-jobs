@@ -20,14 +20,25 @@ test('isEntryLevel rejects senior and ambiguous titles', () => {
   assert.equal(isEntryLevel('Senior Software Engineer'), false);
   assert.equal(isEntryLevel('Staff Engineer'), false);
   assert.equal(isEntryLevel('Engineering Manager'), false);
-  assert.equal(isEntryLevel('Engineering Manager II'), false); // "Manager II" is not entry-level
+  assert.equal(isEntryLevel('Engineering Manager II'), false);
   assert.equal(isEntryLevel('Software Engineer III'), false);
   assert.equal(isEntryLevel('Software Engineer'), false); // no positive signal
 });
 
-test('isEntryLevel accepts I/II grade IC roles', () => {
-  assert.equal(isEntryLevel('Data Engineer II'), true);
+test('isEntryLevel drops Level II (mid-level), keeps Level I', () => {
+  assert.equal(isEntryLevel('Software Engineer II'), false);
+  assert.equal(isEntryLevel('Data Engineer II'), false);
+  assert.equal(isEntryLevel('Analyst II'), false);
   assert.equal(isEntryLevel('Software Engineer I'), true);
+});
+
+test('isEntryLevel treats "Associate" by role, not blindly', () => {
+  assert.equal(isEntryLevel('Associate Product Manager'), true);  // canonical new-grad (APM)
+  assert.equal(isEntryLevel('Sales Associate'), true);            // IC associate
+  assert.equal(isEntryLevel('Associate, Strategic Finance'), true);
+  assert.equal(isEntryLevel('Associate Manager, Billing'), false); // compound-senior
+  assert.equal(isEntryLevel('Associate General Counsel'), false);
+  assert.equal(isEntryLevel('Associate Social Media Manager'), false);
 });
 
 test('isUS passes US/empty/remote, rejects known non-US', () => {

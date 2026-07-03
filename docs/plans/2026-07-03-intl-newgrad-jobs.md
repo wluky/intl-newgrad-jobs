@@ -101,11 +101,15 @@ git commit -m "chore: scaffold project and test harness"
   - `excludesSponsorship(text: string) -> boolean`
 
 > **Note (post-execution):** the filter internals evolved when validated against
-> live data — `isEntryLevel` gained a manager-guard (so "Engineering Manager II"
-> is rejected while "Associate Product Manager" passes), and `isUS` moved to a
-> precompiled word-boundary regex over a much larger non-US list (so "Remote -
-> UK"/"Luxembourg" are rejected while "Milwaukee" is not). See `src/filters.mjs`
-> for the canonical implementation; regression tests cover each real case.
+> live data. `src/filters.mjs` is the canonical implementation; regression tests
+> cover each real case. Key deviations from the pseudo-code above:
+> - **Strict entry-level:** Level II ("Software Engineer II") is treated as
+>   mid-level and **rejected**; only Level I is entry. "Associate" qualifies only
+>   when it prefixes an IC role — compound-senior titles ("Associate Manager",
+>   "Associate General Counsel") are rejected, with an explicit exception for the
+>   canonical new-grad "Associate Product/Program Manager" (APM).
+> - **`isUS`** uses a precompiled word-boundary regex over a large non-US list,
+>   so "Remote - UK"/"Luxembourg" are rejected while "Milwaukee" is not.
 
 - [ ] **Step 1: Write the failing test**
 

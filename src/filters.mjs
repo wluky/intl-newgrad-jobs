@@ -2,28 +2,36 @@
 
 const INTERN_RE = /\b(intern|internship|co-?op)\b/i;
 
-// Unambiguously senior signals — always disqualify.
-const SENIOR_RE = /\b(senior|sr\.?|staff|principal|\blead\b|director|head\s+of|vp|vice\s+president|architect|iii|iv|\bv\b)\b/i;
+// Level markers that mean NOT-entry. Level II ("Software Engineer II") is
+// mid-level (~2–4 yrs), so it disqualifies; only Level I is entry (handled below).
+const SENIOR_LEVEL_RE = /\b(senior|sr\.?|ii|iii|iv|\bv\b)\b/i;
 
-// Manager-family titles are senior UNLESS paired with an explicit entry word:
-// "Associate Product Manager" is entry-level; "Engineering Manager II" is not.
-const MANAGER_RE = /\b(manager|mgr)\b/i;
+// Leadership/senior-track nouns — disqualify even without a level number
+// ("Associate Manager", "Associate General Counsel" are NOT entry-level).
+const LEADERSHIP_RE = /\b(manager|mgr|director|principal|staff|\blead\b|head\s+of|vp|vice\s+president|chief|counsel|architect|partner)\b/i;
 
-// Explicit early-career words.
-const ENTRY_WORD_RE = /\b(new\s*grad|new\s*graduate|entry[-\s]?level|junior|jr\.?|associate|graduate|early\s*career|apprentice|trainee|campus|university\s*grad)\b/i;
+// The canonical new-grad exception: "Associate Product/Program Manager" (APM).
+const APM_RE = /\bassociate\s+(product|program)\s+manager\b|\bapm\b/i;
 
-// Level-1/2 grade markers (roman numerals).
-const GRADE_RE = /\b(i|ii)\b/i;
+// Explicit early-career words (note: "associate" is handled separately below,
+// because it is entry only when it prefixes an individual-contributor role).
+const ENTRY_WORD_RE = /\b(new\s*grad|new\s*graduate|entry[-\s]?level|junior|jr\.?|graduate|early\s*career|apprentice|trainee|campus|university\s*grad)\b/i;
+
+// Level-I grade marker (standalone roman "I").
+const GRADE_I_RE = /\bi\b/i;
 
 export function classifyType(title = '') {
   return INTERN_RE.test(title) ? 'intern' : 'full-time';
 }
 
 export function isEntryLevel(title = '') {
-  if (INTERN_RE.test(title)) return true;                                // internships always qualify
-  if (SENIOR_RE.test(title)) return false;                              // explicit seniority disqualifies
-  if (MANAGER_RE.test(title) && !ENTRY_WORD_RE.test(title)) return false; // "Manager II" ≠ entry, but "Associate ... Manager" is
-  return ENTRY_WORD_RE.test(title) || GRADE_RE.test(title);            // require an entry word or a I/II grade
+  if (INTERN_RE.test(title)) return true;              // internships always qualify
+  if (SENIOR_LEVEL_RE.test(title)) return false;       // Level II+ / senior → not entry
+  if (APM_RE.test(title)) return true;                 // Associate Product/Program Manager = new-grad role
+  if (LEADERSHIP_RE.test(title)) return false;         // any other manager/director/etc → not entry
+  if (ENTRY_WORD_RE.test(title)) return true;          // explicit early-career wording
+  if (/\bassociate\b/i.test(title)) return true;       // "Associate <IC role>" (leadership already excluded)
+  return GRADE_I_RE.test(title);                        // Level I
 }
 
 // Known non-US countries, regions, and major hubs. Matched with word
