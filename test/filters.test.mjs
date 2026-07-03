@@ -20,16 +20,27 @@ test('isEntryLevel rejects senior and ambiguous titles', () => {
   assert.equal(isEntryLevel('Senior Software Engineer'), false);
   assert.equal(isEntryLevel('Staff Engineer'), false);
   assert.equal(isEntryLevel('Engineering Manager'), false);
+  assert.equal(isEntryLevel('Engineering Manager II'), false); // "Manager II" is not entry-level
   assert.equal(isEntryLevel('Software Engineer III'), false);
   assert.equal(isEntryLevel('Software Engineer'), false); // no positive signal
+});
+
+test('isEntryLevel accepts I/II grade IC roles', () => {
+  assert.equal(isEntryLevel('Data Engineer II'), true);
+  assert.equal(isEntryLevel('Software Engineer I'), true);
 });
 
 test('isUS passes US/empty/remote, rejects known non-US', () => {
   assert.equal(isUS(''), true);
   assert.equal(isUS('New York, NY'), true);
   assert.equal(isUS('Remote - US'), true);
+  assert.equal(isUS('Remote - USA'), true);
   assert.equal(isUS('San Francisco, California'), true);
+  assert.equal(isUS('Milwaukee, WI'), true);          // "uk" substring must NOT reject
   assert.equal(isUS('London, United Kingdom'), false);
+  assert.equal(isUS('Remote - UK'), false);
+  assert.equal(isUS('Hybrid - Luxembourg'), false);
+  assert.equal(isUS('Remote - Cyprus'), false);
   assert.equal(isUS('Bangalore, India'), false);
   assert.equal(isUS('Remote, EMEA'), false);
 });

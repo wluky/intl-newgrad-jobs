@@ -100,6 +100,13 @@ git commit -m "chore: scaffold project and test harness"
   - `isUS(location: string) -> boolean`
   - `excludesSponsorship(text: string) -> boolean`
 
+> **Note (post-execution):** the filter internals evolved when validated against
+> live data — `isEntryLevel` gained a manager-guard (so "Engineering Manager II"
+> is rejected while "Associate Product Manager" passes), and `isUS` moved to a
+> precompiled word-boundary regex over a much larger non-US list (so "Remote -
+> UK"/"Luxembourg" are rejected while "Milwaukee" is not). See `src/filters.mjs`
+> for the canonical implementation; regression tests cover each real case.
+
 - [ ] **Step 1: Write the failing test**
 
 Create `test/filters.test.mjs`:

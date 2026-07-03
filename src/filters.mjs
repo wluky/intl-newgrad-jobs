@@ -1,37 +1,67 @@
 // Pure title/location/text classification. No I/O.
 
 const INTERN_RE = /\b(intern|internship|co-?op)\b/i;
-// Note: "manager"/"mgr" intentionally excluded — it would wrongly reject
-// entry roles like "Associate Product Manager". Bare "Product Manager" /
-// "Engineering Manager" are still dropped for lacking any entry signal.
+
+// Unambiguously senior signals — always disqualify.
 const SENIOR_RE = /\b(senior|sr\.?|staff|principal|\blead\b|director|head\s+of|vp|vice\s+president|architect|iii|iv|\bv\b)\b/i;
-const ENTRY_RE = /\b(new\s*grad|new\s*graduate|entry[-\s]?level|junior|jr\.?|associate|graduate|early\s*career|apprentice|trainee|campus|university\s*grad|\bi\b|\bii\b)\b/i;
+
+// Manager-family titles are senior UNLESS paired with an explicit entry word:
+// "Associate Product Manager" is entry-level; "Engineering Manager II" is not.
+const MANAGER_RE = /\b(manager|mgr)\b/i;
+
+// Explicit early-career words.
+const ENTRY_WORD_RE = /\b(new\s*grad|new\s*graduate|entry[-\s]?level|junior|jr\.?|associate|graduate|early\s*career|apprentice|trainee|campus|university\s*grad)\b/i;
+
+// Level-1/2 grade markers (roman numerals).
+const GRADE_RE = /\b(i|ii)\b/i;
 
 export function classifyType(title = '') {
   return INTERN_RE.test(title) ? 'intern' : 'full-time';
 }
 
 export function isEntryLevel(title = '') {
-  if (INTERN_RE.test(title)) return true;   // internships always qualify
-  if (SENIOR_RE.test(title)) return false;  // explicit seniority disqualifies
-  return ENTRY_RE.test(title);              // otherwise require a positive entry signal
+  if (INTERN_RE.test(title)) return true;                                // internships always qualify
+  if (SENIOR_RE.test(title)) return false;                              // explicit seniority disqualifies
+  if (MANAGER_RE.test(title) && !ENTRY_WORD_RE.test(title)) return false; // "Manager II" ≠ entry, but "Associate ... Manager" is
+  return ENTRY_WORD_RE.test(title) || GRADE_RE.test(title);            // require an entry word or a I/II grade
 }
 
+// Known non-US countries, regions, and major hubs. Matched with word
+// boundaries (so "uk" catches "Remote - UK" but not "Milwaukee"). Note: 2-letter
+// state-vs-country ambiguities (e.g. "CA") are intentionally NOT listed — "CA"
+// is far more often California than Canada on US job boards.
 const NON_US = [
-  'united kingdom', 'london', 'manchester', 'ireland', 'dublin',
-  'canada', 'toronto', 'vancouver', 'montreal', 'ontario',
-  'india', 'bangalore', 'bengaluru', 'hyderabad', 'pune', 'gurgaon', 'chennai',
-  'germany', 'berlin', 'munich', 'france', 'paris', 'spain', 'madrid', 'barcelona',
-  'netherlands', 'amsterdam', 'poland', 'warsaw', 'krakow', 'ukraine', 'romania',
-  'australia', 'sydney', 'melbourne', 'singapore', 'japan', 'tokyo', 'china',
-  'brazil', 'mexico', 'argentina', 'colombia', 'philippines', 'israel', 'tel aviv',
-  'emea', 'apac', 'latam', 'united arab emirates', 'dubai',
+  'united kingdom', 'england', 'scotland', 'wales', 'uk', 'ireland',
+  'canada', 'germany', 'france', 'spain', 'portugal', 'italy', 'netherlands',
+  'belgium', 'luxembourg', 'switzerland', 'austria', 'poland', 'czech',
+  'czechia', 'hungary', 'romania', 'bulgaria', 'greece', 'cyprus', 'malta',
+  'sweden', 'norway', 'denmark', 'finland', 'iceland', 'estonia', 'lithuania',
+  'latvia', 'ukraine', 'turkey', 'israel', 'united arab emirates', 'saudi arabia',
+  'qatar', 'egypt', 'nigeria', 'kenya', 'south africa', 'morocco',
+  'india', 'pakistan', 'bangladesh', 'sri lanka', 'china', 'hong kong', 'taiwan',
+  'japan', 'south korea', 'singapore', 'malaysia', 'indonesia', 'thailand',
+  'vietnam', 'philippines', 'australia', 'new zealand',
+  'brazil', 'mexico', 'argentina', 'chile', 'colombia', 'peru', 'uruguay',
+  'costa rica', 'panama',
+  'emea', 'apac', 'latam',
+  'london', 'manchester', 'dublin', 'toronto', 'vancouver', 'montreal',
+  'ottawa', 'berlin', 'munich', 'paris', 'madrid', 'barcelona', 'lisbon',
+  'amsterdam', 'brussels', 'zurich', 'geneva', 'vienna', 'warsaw', 'krakow',
+  'prague', 'stockholm', 'copenhagen', 'oslo', 'helsinki', 'tel aviv', 'dubai',
+  'bangalore', 'bengaluru', 'hyderabad', 'pune', 'gurgaon', 'chennai', 'mumbai',
+  'delhi', 'beijing', 'shanghai', 'tokyo', 'seoul', 'sydney', 'melbourne',
+  'sao paulo', 'bogota',
 ];
 
+const NON_US_RE = new RegExp(
+  '\\b(' + NON_US.map((s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|') + ')\\b',
+  'i',
+);
+
 export function isUS(location = '') {
-  const l = location.toLowerCase().trim();
-  if (l === '') return true;                    // don't penalize missing data
-  return !NON_US.some((k) => l.includes(k));    // reject known non-US, pass the rest
+  const l = location.toLowerCase();
+  if (l.trim() === '') return true;   // don't penalize missing data
+  return !NON_US_RE.test(l);          // reject known non-US, pass the rest
 }
 
 const EXCLUSION_PHRASES = [
