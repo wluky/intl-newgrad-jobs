@@ -13,7 +13,7 @@ graduating in the US.
 To add or fix a company, edit [`companies.json`](companies.json) — not this
 file (the table below is auto-generated weekly).
 
-_Last updated: 2026-07-03 · 145 open roles_
+_Last updated: 2026-07-06 · 145 open roles_
 
 | Company | Role | Type | Location | Posted | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -22,12 +22,12 @@ _Last updated: 2026-07-03 · 145 open roles_
 | Robinhood | Customer Experience Associate (New Grad) | Full-time | Westlake, TX | 2026-07-02 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8024530?t=gh_src=&gh_jid=8024530) |
 | Datadog | Customer Success Associate - Denver | Full-time | Denver, Colorado, USA | 2026-07-02 | [Apply](https://careers.datadoghq.com/detail/7228240/?gh_jid=7228240) |
 | Verkada | Global Sourcing Specialist (Co-op) | Intern | San Mateo, CA United States | 2026-07-02 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5175755007) |
+| Oscar Health | Associate, Member and Provider Optimization | Full-time | Dallas, Texas, United States | 2026-07-02 | [Apply](http://www.hioscar.com/careers/8044682?gh_jid=8044682) |
 | Oscar Health | Associate, Member and Provider Optimization | Full-time | Tempe, Arizona, United States | 2026-07-02 | [Apply](http://www.hioscar.com/careers/8044675?gh_jid=8044675) |
 | Oscar Health | Associate, Member and Provider Optimization | Full-time | Atlanta, Georgia, United States | 2026-07-02 | [Apply](http://www.hioscar.com/careers/8044667?gh_jid=8044667) |
+| Oscar Health | Associate, Member and Provider Optimization | Full-time | New York, New York, United States | 2026-07-02 | [Apply](http://www.hioscar.com/careers/7914922?gh_jid=7914922) |
 | Oscar Health | Associate, Member and Provider Optimization | Full-time | New York, New York, United States | 2026-07-02 | [Apply](http://www.hioscar.com/careers/8031791?gh_jid=8031791) |
 | Oscar Health | Associate, Member and Provider Optimization | Full-time | Atlanta, Georgia, United States | 2026-07-02 | [Apply](http://www.hioscar.com/careers/7927607?gh_jid=7927607) |
-| Oscar Health | Associate, Member and Provider Optimization | Full-time | Dallas, Texas, United States | 2026-07-02 | [Apply](http://www.hioscar.com/careers/8044682?gh_jid=8044682) |
-| Oscar Health | Associate, Member and Provider Optimization | Full-time | New York, New York, United States | 2026-07-02 | [Apply](http://www.hioscar.com/careers/7914922?gh_jid=7914922) |
 | Lyft | Fleet Operations Associate (Afternoon & Overnight Shift)  | Full-time | Nashville, TN | 2026-07-02 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8586330002?gh_jid=8586330002) |
 | Flexport | Automation Engineer I | Full-time | Atlanta, Georgia, United States | 2026-07-02 | [Apply](https://boards.greenhouse.io/flexport/jobs/8015840?gh_jid=8015840) |
 | Databricks | PhD GenAI Research Scientist Intern | Intern | San Francisco, California | 2026-07-01 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) |
@@ -43,21 +43,21 @@ _Last updated: 2026-07-03 · 145 open roles_
 | Nuro | Reliability Engineer, Intern | Intern | Mountain View, California (HQ) | 2026-07-01 | [Apply](https://nuro.ai/careersitem?gh_jid=7673849) |
 | Notion | Technical Recruiter, Early Career | Full-time | San Francisco, California | 2026-07-01 | [Apply](https://jobs.ashbyhq.com/notion/e3e0c9e9-4c9a-4390-b713-27d465bce2f1) |
 | Datadog | Staff GenAI Engineer - Application Performance Monitoring (APM) | Full-time | New York, New York, USA | 2026-06-30 | [Apply](https://careers.datadoghq.com/detail/7974511/?gh_jid=7974511) |
-| Oscar Health | Associate, Medical Economics | Full-time | New York, New York, United States | 2026-06-30 | [Apply](http://www.hioscar.com/careers/8023759?gh_jid=8023759) |
-| Oscar Health | Associate, Medical Economics | Full-time | Atlanta, Georgia, United States | 2026-06-30 | [Apply](http://www.hioscar.com/careers/8039029?gh_jid=8039029) |
-| Oscar Health | Associate, Medical Economics | Full-time | Tempe, Arizona, United States | 2026-06-30 | [Apply](http://www.hioscar.com/careers/8039020?gh_jid=8039020) |
 | Oscar Health | Associate, Medical Economics | Full-time | Dallas, Texas, United States | 2026-06-30 | [Apply](http://www.hioscar.com/careers/8039031?gh_jid=8039031) |
+| Oscar Health | Associate, Medical Economics | Full-time | New York, New York, United States | 2026-06-30 | [Apply](http://www.hioscar.com/careers/8023759?gh_jid=8023759) |
+| Oscar Health | Associate, Medical Economics | Full-time | Tempe, Arizona, United States | 2026-06-30 | [Apply](http://www.hioscar.com/careers/8039020?gh_jid=8039020) |
+| Oscar Health | Associate, Medical Economics | Full-time | Atlanta, Georgia, United States | 2026-06-30 | [Apply](http://www.hioscar.com/careers/8039029?gh_jid=8039029) |
 | Asana | Junior Software Engineer, Reykjavik | Full-time | Reykjavík | 2026-06-30 | [Apply](https://www.asana.com/jobs/apply/7766762?gh_jid=7766762) |
 | Gusto | Sales Associate  | Full-time | United States - Atlanta, GA - Remote, United States - Chicago, IL - Remote, United States - Denver, CO, United States - Las Vegas, NV - Remote, United States - Phoenix, AZ - Remote | 2026-06-30 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8029190) |
 | Nuro | Associate Fleet Technician, Bay Area | Full-time | California - Santa Clara; California - SF | 2026-06-30 | [Apply](https://nuro.ai/careersitem?gh_jid=7442056) |
 | Figma | Early Career Recruiter | Full-time | San Francisco, CA • New York, NY • United States | 2026-06-29 | [Apply](https://boards.greenhouse.io/figma/jobs/6099199004?gh_jid=6099199004) |
 | Chime | Associate, Finance | Full-time | San Francisco, CA, USA | 2026-06-29 | [Apply](https://boards.greenhouse.io/chime/jobs/8531757002?gh_jid=8531757002) |
 | Verkada | Technical Support Engineering Intern - Fall 2026 | Intern | San Mateo, CA United States | 2026-06-26 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5017082007) |
-| Oscar Health | Associate, Network Contracting | Full-time | Dallas, Texas, United States | 2026-06-26 | [Apply](http://www.hioscar.com/careers/8030656?gh_jid=8030656) |
-| Oscar Health | Associate, Network Contracting | Full-time | New York, New York, United States | 2026-06-26 | [Apply](http://www.hioscar.com/careers/8027526?gh_jid=8027526) |
-| Oscar Health | Associate, Network Contracting | Full-time | Alabama, United States | 2026-06-26 | [Apply](http://www.hioscar.com/careers/8030665?gh_jid=8030665) |
 | Oscar Health | Associate, Network Contracting | Full-time | Atlanta, Georgia, United States | 2026-06-26 | [Apply](http://www.hioscar.com/careers/8030642?gh_jid=8030642) |
+| Oscar Health | Associate, Network Contracting | Full-time | Alabama, United States | 2026-06-26 | [Apply](http://www.hioscar.com/careers/8030665?gh_jid=8030665) |
+| Oscar Health | Associate, Network Contracting | Full-time | Dallas, Texas, United States | 2026-06-26 | [Apply](http://www.hioscar.com/careers/8030656?gh_jid=8030656) |
 | Oscar Health | Associate, Network Contracting | Full-time | Tempe, Arizona, United States | 2026-06-26 | [Apply](http://www.hioscar.com/careers/8030641?gh_jid=8030641) |
+| Oscar Health | Associate, Network Contracting | Full-time | New York, New York, United States | 2026-06-26 | [Apply](http://www.hioscar.com/careers/8027526?gh_jid=8027526) |
 | Brex | Enterprise Account Executive I, Embedded Finance | Full-time | New York, New York, United States | 2026-06-26 | [Apply](https://www.brex.com/careers/8502529002?gh_jid=8502529002) |
 | Flexport | Air Operations Associate | Full-time | Phnom Penh, Cambodia | 2026-06-26 | [Apply](https://boards.greenhouse.io/flexport/jobs/7774349?gh_jid=7774349) |
 | Flexport | Air Planning Associate | Full-time | Phnom Penh, Cambodia | 2026-06-26 | [Apply](https://boards.greenhouse.io/flexport/jobs/8025160?gh_jid=8025160) |
@@ -83,49 +83,49 @@ _Last updated: 2026-07-03 · 145 open roles_
 | Elastic | Associate Recruiter | Full-time | United States | 2026-06-24 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8000812&gh_jid=8000812) |
 | SoFi | Associate AI Financial Planning Analyst | Full-time | New York City | 2026-06-23 | [Apply](https://sofi.com/careers/job/7781335003?gh_jid=7781335003) |
 | Datadog | GTM Strategy and Operations Associate | Full-time | New York, New York, USA | 2026-06-22 | [Apply](https://careers.datadoghq.com/detail/7843331/?gh_jid=7843331) |
-| Oscar Health | Associate, Process Improvement | Full-time | New York, New York, United States | 2026-06-22 | [Apply](http://www.hioscar.com/careers/7927691?gh_jid=7927691) |
 | Oscar Health | Associate, Process Improvement | Full-time | Atlanta, Georgia, United States | 2026-06-22 | [Apply](http://www.hioscar.com/careers/7961210?gh_jid=7961210) |
-| Oscar Health | Associate, Process Improvement | Full-time | Dallas, Texas, United States | 2026-06-22 | [Apply](http://www.hioscar.com/careers/7961209?gh_jid=7961209) |
 | Oscar Health | Associate, Process Improvement | Full-time | Tempe, Arizona, United States | 2026-06-22 | [Apply](http://www.hioscar.com/careers/7961194?gh_jid=7961194) |
+| Oscar Health | Associate, Process Improvement | Full-time | New York, New York, United States | 2026-06-22 | [Apply](http://www.hioscar.com/careers/7927691?gh_jid=7927691) |
+| Oscar Health | Associate, Process Improvement | Full-time | Dallas, Texas, United States | 2026-06-22 | [Apply](http://www.hioscar.com/careers/7961209?gh_jid=7961209) |
 | Oscar Health | Associate, Provider Data Analytics | Full-time | Tempe, Arizona, United States | 2026-06-22 | [Apply](http://www.hioscar.com/careers/7895866?gh_jid=7895866) |
-| Oscar Health | Associate, Provider Data Analytics | Full-time | New York, New York, United States | 2026-06-22 | [Apply](http://www.hioscar.com/careers/7885360?gh_jid=7885360) |
 | Oscar Health | Associate, Provider Data Analytics | Full-time | Dallas, Texas, United States | 2026-06-22 | [Apply](http://www.hioscar.com/careers/7895868?gh_jid=7895868) |
 | Oscar Health | Associate, Provider Data Analytics | Full-time | Atlanta, Georgia, United States | 2026-06-22 | [Apply](http://www.hioscar.com/careers/7895869?gh_jid=7895869) |
+| Oscar Health | Associate, Provider Data Analytics | Full-time | New York, New York, United States | 2026-06-22 | [Apply](http://www.hioscar.com/careers/7885360?gh_jid=7885360) |
 | Datadog | Product Marketing Manager - APM | Full-time | New York, New York, USA; San Francisco, California, USA | 2026-06-18 | [Apply](https://careers.datadoghq.com/detail/8002922/?gh_jid=8002922) |
+| Oscar Health | Process Management Associate, Provider Operations | Full-time | Atlanta, Georgia, United States | 2026-06-18 | [Apply](http://www.hioscar.com/careers/8015923?gh_jid=8015923) |
+| Oscar Health | Process Management Associate, Provider Operations | Full-time | New York, New York, United States | 2026-06-18 | [Apply](http://www.hioscar.com/careers/8004163?gh_jid=8004163) |
 | Oscar Health | Process Management Associate, Provider Operations | Full-time | Tempe, Arizona, United States | 2026-06-18 | [Apply](http://www.hioscar.com/careers/8015916?gh_jid=8015916) |
 | Oscar Health | Process Management Associate, Provider Operations | Full-time | Dallas, Texas, United States | 2026-06-18 | [Apply](http://www.hioscar.com/careers/8015922?gh_jid=8015922) |
-| Oscar Health | Process Management Associate, Provider Operations | Full-time | New York, New York, United States | 2026-06-18 | [Apply](http://www.hioscar.com/careers/8004163?gh_jid=8004163) |
-| Oscar Health | Process Management Associate, Provider Operations | Full-time | Atlanta, Georgia, United States | 2026-06-18 | [Apply](http://www.hioscar.com/careers/8015923?gh_jid=8015923) |
 | Ramp | Virtual Events Associate | Full-time | New York, NY (HQ) | 2026-06-18 | [Apply](https://jobs.ashbyhq.com/ramp/77578727-0710-43dd-a294-ac3cbb6b52a7) |
 | Oscar Health | Associate, Network Contracting & Services (Florida) | Full-time | Florida, United States | 2026-06-17 | [Apply](http://www.hioscar.com/careers/8004153?gh_jid=8004153) |
-| Oscar Health | Associate, Strategic Finance | Full-time | Tempe, Arizona, United States | 2026-06-17 | [Apply](http://www.hioscar.com/careers/8013106?gh_jid=8013106) |
 | Oscar Health | Associate, Strategic Finance | Full-time | Dallas, Texas, United States | 2026-06-17 | [Apply](http://www.hioscar.com/careers/8013107?gh_jid=8013107) |
-| Oscar Health | Associate, Strategic Finance | Full-time | New York, New York, United States | 2026-06-17 | [Apply](http://www.hioscar.com/careers/8011066?gh_jid=8011066) |
 | Oscar Health | Associate, Strategic Finance | Full-time | Atlanta, Georgia, United States | 2026-06-17 | [Apply](http://www.hioscar.com/careers/8013108?gh_jid=8013108) |
+| Oscar Health | Associate, Strategic Finance | Full-time | New York, New York, United States | 2026-06-17 | [Apply](http://www.hioscar.com/careers/8011066?gh_jid=8011066) |
+| Oscar Health | Associate, Strategic Finance | Full-time | Tempe, Arizona, United States | 2026-06-17 | [Apply](http://www.hioscar.com/careers/8013106?gh_jid=8013106) |
 | Oscar Health | Analytics Engineer I | Full-time | New York, New York, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7872595?gh_jid=7872595) |
-| Oscar Health | Associate, Exchange Compliance | Full-time | New York, New York, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7847390?gh_jid=7847390) |
 | Oscar Health | Associate, Exchange Compliance | Full-time | Atlanta, Georgia, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7918160?gh_jid=7918160) |
 | Oscar Health | Associate, Exchange Compliance | Full-time | Dallas, Texas, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7918153?gh_jid=7918153) |
+| Oscar Health | Associate, Exchange Compliance | Full-time | New York, New York, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7847390?gh_jid=7847390) |
 | Oscar Health | Associate, Exchange Compliance | Full-time | Tempe, Arizona, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7918137?gh_jid=7918137) |
-| Oscar Health | Associate, Government Affairs | Full-time | New York, New York, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7974658?gh_jid=7974658) |
 | Oscar Health | Associate, Government Affairs | Full-time | Washington, D.C., United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7993044?gh_jid=7993044) |
+| Oscar Health | Associate, Government Affairs | Full-time | New York, New York, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7974658?gh_jid=7974658) |
 | Oscar Health | Associate, Insurance Product and Emerging Product Innovation | Full-time | New York, New York, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7852511?gh_jid=7852511) |
 | Oscar Health | Associate, Insurance Product & Benefit Execution | Full-time | New York, New York, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7852515?gh_jid=7852515) |
+| Oscar Health | Associate, Member and Provider Initiatives | Full-time | New York, New York, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7915111?gh_jid=7915111) |
 | Oscar Health | Associate, Member and Provider Initiatives | Full-time | Atlanta, Georgia, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7917213?gh_jid=7917213) |
 | Oscar Health | Associate, Member and Provider Initiatives | Full-time | Dallas, Texas, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7917211?gh_jid=7917211) |
 | Oscar Health | Associate, Member and Provider Initiatives | Full-time | Tempe, Arizona, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7917209?gh_jid=7917209) |
-| Oscar Health | Associate, Member and Provider Initiatives | Full-time | New York, New York, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7915111?gh_jid=7915111) |
 | Oscar Health | Associate, Member and Provider Optimization | Full-time | Dallas, Texas, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7927606?gh_jid=7927606) |
 | Oscar Health | Associate, Member and Provider Optimization | Full-time | Tempe, Arizona, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7927605?gh_jid=7927605) |
 | Oscar Health | Associate, Operations Data Analytics | Full-time | Remote | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7793749?gh_jid=7793749) |
 | Oscar Health | Associate, Total Quality Management | Full-time | New York, New York, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7979564?gh_jid=7979564) |
-| Oscar Health | Associate, Total Quality Management | Full-time | Dallas, Texas, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7979570?gh_jid=7979570) |
-| Oscar Health | Associate, Total Quality Management | Full-time | Tempe, Arizona, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7979566?gh_jid=7979566) |
 | Oscar Health | Associate, Total Quality Management | Full-time | Atlanta, Georgia, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7979567?gh_jid=7979567) |
+| Oscar Health | Associate, Total Quality Management | Full-time | Tempe, Arizona, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7979566?gh_jid=7979566) |
+| Oscar Health | Associate, Total Quality Management | Full-time | Dallas, Texas, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7979570?gh_jid=7979570) |
 | Oscar Health | Pharmacy Program Associate | Full-time | Tempe, Arizona, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7983281?gh_jid=7983281) |
+| Oscar Health | Pharmacy Program Associate | Full-time | New York, New York, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7977766?gh_jid=7977766) |
 | Oscar Health | Pharmacy Program Associate | Full-time | Atlanta, Georgia, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7997740?gh_jid=7997740) |
 | Oscar Health | Pharmacy Program Associate | Full-time | Dallas, Texas, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7997733?gh_jid=7997733) |
-| Oscar Health | Pharmacy Program Associate | Full-time | New York, New York, United States | 2026-06-16 | [Apply](http://www.hioscar.com/careers/7977766?gh_jid=7977766) |
 | Roblox | [2026] Applied Scientist - PhD Intern | Intern | San Mateo, CA, United States | 2026-06-16 | [Apply](https://careers.roblox.com/jobs/7142298?gh_jid=7142298) |
 | Faire | Data Science Intern | Intern | San Francisco, CA | 2026-06-16 | [Apply](https://boards.greenhouse.io/faire/jobs/8376377002?gh_jid=8376377002) |
 | Nuro | Software Engineer, AI Platform - Intern | Intern | Mountain View, California (HQ) | 2026-06-15 | [Apply](https://nuro.ai/careersitem?gh_jid=7351061) |
