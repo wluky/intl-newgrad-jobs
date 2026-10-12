@@ -13,30 +13,111 @@ graduating in the US.
 To add or fix a company, edit [`companies.json`](companies.json) — not this
 file (the table below is auto-generated weekly).
 
-_Last updated: 2026-10-05 · 281 open roles_
+_Last updated: 2026-10-12 · 285 open roles_
 
 | Company | Role | Type | Location | Posted | Link |
 | --- | --- | --- | --- | --- | --- |
+| Samsara | Software Engineering Internship - San Francisco  | Intern | San Francisco - SF9 | 2026-10-12 | [Apply](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) |
+| Roblox | [2027] Applied Scientist - PhD Intern | Intern | San Mateo, CA, United States | 2026-10-12 | [Apply](https://careers.roblox.com/jobs/8242621?gh_jid=8242621) |
+| Roblox | [2027] Associate Product Designer, Early Career | Full-time | San Mateo, CA, United States | 2026-10-12 | [Apply](https://careers.roblox.com/jobs/8143982?gh_jid=8143982) |
+| Roblox | [2027] Associate Product Manager, Early Career | Full-time | San Mateo, CA, United States | 2026-10-12 | [Apply](https://careers.roblox.com/jobs/8143976?gh_jid=8143976) |
+| Roblox | [2027] Data Scientist - PhD Intern | Intern | San Mateo, CA, United States | 2026-10-12 | [Apply](https://careers.roblox.com/jobs/8242619?gh_jid=8242619) |
+| Roblox | [2027] Software Engineer, Early Career | Full-time | San Mateo, CA, United States | 2026-10-12 | [Apply](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) |
+| Roblox | Business Operations Associate | Full-time | San Mateo, CA, United States | 2026-10-12 | [Apply](https://careers.roblox.com/jobs/8120368?gh_jid=8120368) |
+| Roblox | [Summer 2027] Product Design Intern | Intern | San Mateo, CA, United States | 2026-10-12 | [Apply](https://careers.roblox.com/jobs/8143984?gh_jid=8143984) |
+| Roblox | [Summer 2027] Product Management Intern | Intern | San Mateo, CA, United States | 2026-10-12 | [Apply](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) |
+| Roblox | [Summer 2027] Software Engineer Intern | Intern | San Mateo, CA, United States | 2026-10-12 | [Apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |
+| Figma | Early Career, Inside Sales Representative (2027) | Full-time | San Francisco, CA • New York, NY | 2026-10-11 | [Apply](https://boards.greenhouse.io/figma/jobs/6174190004?gh_jid=6174190004) |
+| Flexport | Associate Program Manager | Full-time | New York City, New York, United States | 2026-10-10 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8214366) |
+| Databricks | PhD GenAI Research Scientist Intern | Intern | San Francisco, California | 2026-10-09 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) |
+| Databricks | Product Design Intern (2027 Start) | Intern | San Francisco, California; Seattle, Washington | 2026-10-09 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002) |
+| Databricks | Product Design New Grad (2027 Start) | Full-time | San Francisco, California; Seattle, Washington | 2026-10-09 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8843577002) |
+| Databricks | Product Management Intern (2027) - Belgrade | Intern | Belgrade, Serbia | 2026-10-09 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002) |
+| Coinbase | Forward Deployed Engineer Intern (HR Technology) | Intern | Hybrid - New York, NY | 2026-10-09 | [Apply](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) |
+| Samsara | Account Development Representative Intern - Atlanta | Intern | Atlanta, Georgia, United States | 2026-10-09 | [Apply](https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119) |
+| Samsara | Account Development Representative Intern - Phoenix | Intern | Phoenix, Arizona, United States | 2026-10-09 | [Apply](https://www.samsara.com/company/careers/roles/8099799?gh_jid=8099799) |
+| Affirm | IT Engineer Intern (Early Careers Summer 2027) | Intern | San Francisco, California, United States | 2026-10-09 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003) |
+| Robinhood | Cashiering Support Associate | Full-time | Westlake, TX | 2026-10-09 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8262110?t=gh_src=&gh_jid=8262110) |
+| Robinhood | Customer Experience Associate, Resolutions Desk | Full-time | Denver, CO; Westlake, TX | 2026-10-09 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8268261?t=gh_src=&gh_jid=8268261) |
+| Robinhood | Customer Experience Associate, Trump Accounts Resolutions Desk | Full-time | Westlake, TX | 2026-10-09 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8168392?t=gh_src=&gh_jid=8168392) |
+| MongoDB | Associate Commercial Growth Account Executive | Full-time | Austin | 2026-10-09 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7615794) |
+| MongoDB | Associate, HR Shared Services | Full-time | Gurugram | 2026-10-09 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8173777) |
+| MongoDB | Associate, HR Shared Services | Full-time | Gurugram | 2026-10-09 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8246377) |
+| MongoDB | Associate Recruiter | Full-time | Gurugram | 2026-10-09 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7217699) |
+| MongoDB | Associate Third-Party Risk Management (TPRM) Risk Analyst | Full-time | United States | 2026-10-09 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8212146) |
+| MongoDB | Product Pricing & Monetization Strategy - Associate | Full-time | New York City | 2026-10-09 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7523751) |
+| MongoDB | Sales Support Associate | Full-time | Gurugram | 2026-10-09 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8226033) |
+| Oscar Health | Associate, Provider Success | Full-time | Dallas, Texas, United States | 2026-10-09 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8267876) |
+| Oscar Health | Associate, Provider Success | Full-time | New York, New York, United States | 2026-10-09 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8146191) |
+| Oscar Health | Associate, Provider Success | Full-time | Tempe, Arizona, United States | 2026-10-09 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8267875) |
+| Oscar Health | Associate, Provider Success | Full-time | Atlanta, Georgia, United States | 2026-10-09 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8267879) |
+| Flexport | Global Operations Associate | Full-time | Bellevue, Washington, United States | 2026-10-09 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/7438763) |
+| Flexport | Global Operations Associate | Full-time | Atlanta, Georgia, United States | 2026-10-09 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/7450530) |
+| SoFi | Staff Credit Policy Analyst – Condo, Co-op & Project Review | Intern | United States | 2026-10-09 | [Apply](https://sofi.com/careers/job/7698678003?gh_jid=7698678003) |
+| Gusto | Conversion Operations Associate | Full-time | Denver, CO - Hybrid | 2026-10-09 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8143042) |
+| Faire | Applied AI/ML Scientist, Intern | Intern | San Francisco, CA | 2026-10-09 | [Apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
+| Nuro | Associate Fleet Technician, Bay Area | Full-time | California - Santa Clara; California - SF | 2026-10-09 | [Apply](https://nuro.ai/careersitem?gh_jid=7442056) |
+| Nuro | Associate Fleet Technician, Los Angeles | Full-time | California - LA | 2026-10-09 | [Apply](https://nuro.ai/careersitem?gh_jid=7976791) |
+| Nuro | New Grad Software Engineer, Product Engineering | Full-time | Mountain View, California (HQ) | 2026-10-09 | [Apply](https://nuro.ai/careersitem?gh_jid=8248317) |
+| Nuro | Social Media Intern | Intern | Mountain View, California (HQ) | 2026-10-09 | [Apply](https://nuro.ai/careersitem?gh_jid=8222063) |
+| Nuro | Software Engineer, AI Platform - Intern | Intern | Mountain View, California (HQ) | 2026-10-09 | [Apply](https://nuro.ai/careersitem?gh_jid=7351061) |
+| Nuro | Software Engineer, AI Platform - New Grad | Full-time | Mountain View, California (HQ) | 2026-10-09 | [Apply](https://nuro.ai/careersitem?gh_jid=7351066) |
+| Nuro | Software Engineer, Performance Tooling and Infrastructure New Grad | Full-time | Mountain View, California (HQ) | 2026-10-09 | [Apply](https://nuro.ai/careersitem?gh_jid=8227399) |
+| Affirm | Software Engineer Intern (Summer 2027) | Intern | San Francisco, California, United States | 2026-10-08 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003) |
+| Affirm | Software Engineer (Machine Learning) Intern (Summer 2027) | Intern | San Francisco, California, United States | 2026-10-08 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003) |
+| Vercel | Software Engineering Intern - Summer '27 | Intern | Hybrid - San Francisco | 2026-10-08 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6181759004) |
+| Vercel | Software Engineering Intern - Winter '27 | Intern | Hybrid - San Francisco | 2026-10-08 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6181755004) |
+| Pinterest | Software Engineer Intern 2027 (USA) | Intern | San Francisco, CA, US; Remote, US | 2026-10-08 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) |
+| Pinterest | Solutions Engineer Intern 2027 (USA) | Intern | San Francisco, CA, US; Remote, US | 2026-10-08 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8214788) |
+| Pinterest | UX Quantitative Research Intern (USA) | Intern | Remote, US | 2026-10-08 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) |
+| Lyft | Operations Associate - Flexdrive | Full-time | Philadelphia, PA | 2026-10-08 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8880066002?gh_jid=8880066002) |
+| Flexport | Customs Associate | Full-time | Atlanta, Georgia, United States | 2026-10-08 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8263427) |
+| Faire | Customer Experience Associate (3 Month Fixed-Term Contract) | Full-time | Kitchener-Waterloo, ON | 2026-10-08 | [Apply](https://boards.greenhouse.io/faire/jobs/8877587002?gh_jid=8877587002) |
+| Replit | Software Engineering Intern – Winter 2027  | Intern | Foster City, CA | 2026-10-08 | [Apply](https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea) |
+| Stripe | Comms Strategy & Operations Associate | Full-time | NYC, SF | 2026-10-07 | [Apply](https://stripe.com/jobs/search?gh_jid=8241857) |
+| Stripe | Critical Support Operations Associate, Weekend Coverage | Full-time | N/A | 2026-10-07 | [Apply](https://stripe.com/jobs/search?gh_jid=8175816) |
+| Stripe | Data Analyst, Intern | Intern | New York, Seattle, South San Francisco HQ | 2026-10-07 | [Apply](https://stripe.com/jobs/search?gh_jid=8194291) |
+| Stripe | High School Internship, Software Engineering (Summer 2027) | Intern | Seattle, San Francisco | 2026-10-07 | [Apply](https://stripe.com/jobs/search?gh_jid=8241260) |
+| Stripe | Legal/ Corporate Compliance Operations Associate | Full-time | N/A | 2026-10-07 | [Apply](https://stripe.com/jobs/search?gh_jid=8230274) |
+| Stripe | PhD Data Scientist, Intern | Intern | New York, Seattle, South San Francisco HQ | 2026-10-07 | [Apply](https://stripe.com/jobs/search?gh_jid=8194283) |
+| Stripe | Software Engineer, Early Career — Immediate Start | Full-time | San Francisco, Seattle, New York | 2026-10-07 | [Apply](https://stripe.com/jobs/search?gh_jid=8212508) |
+| Stripe | Software Engineer, Intern  | Intern | Bucharest | 2026-10-07 | [Apply](https://stripe.com/jobs/search?gh_jid=8130807) |
+| Stripe | Software Engineer, Intern (Summer or Winter) | Intern | San Francisco, Seattle, New York City | 2026-10-07 | [Apply](https://stripe.com/jobs/search?gh_jid=8128745) |
+| Stripe | Software Engineer, New Grad | Full-time | Bucharest | 2026-10-07 | [Apply](https://stripe.com/jobs/search?gh_jid=8130922) |
+| Stripe | Software Engineer, New Grad | Full-time | San Francisco, Seattle, New York | 2026-10-07 | [Apply](https://stripe.com/jobs/search?gh_jid=8128744) |
+| Robinhood | Brokerage Operations Intern (Summer 2027) | Intern | Chicago, IL | 2026-10-07 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198198?t=gh_src=&gh_jid=8198198) |
+| Robinhood | Brokerage Risk Analyst Intern (Summer 2027) | Intern | Chicago, IL | 2026-10-07 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198223?t=gh_src=&gh_jid=8198223) |
+| Robinhood | Business Analyst Intern (Summer 2027) | Intern | Washington, DC | 2026-10-07 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8123238?t=gh_src=&gh_jid=8123238) |
+| Robinhood | Crypto Accounting Intern (Summer 2027) | Intern | New York, NY | 2026-10-07 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src=&gh_jid=8198153) |
+| Robinhood | Crypto Operations Intern (Summer 2027) | Intern | New York, NY | 2026-10-07 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8193484?t=gh_src=&gh_jid=8193484) |
+| Robinhood | Crypto Partnership Intern (Summer 2027) | Intern | New York, NY | 2026-10-07 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8193710?t=gh_src=&gh_jid=8193710) |
+| Robinhood | Finance and Strategy Intern (Summer 2027) | Intern | Menlo Park, CA | 2026-10-07 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198142?t=gh_src=&gh_jid=8198142) |
+| Robinhood | Futures & Prediction Market Operations Intern (Summer 2027) | Intern | Chicago, IL | 2026-10-07 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8187309?t=gh_src=&gh_jid=8187309) |
+| Robinhood | Growth Marketing Intern (Summer 2027) | Intern | Menlo Park, CA | 2026-10-07 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8192367?t=gh_src=&gh_jid=8192367) |
+| Robinhood | Investment Analyst MBA Intern, Robinhood Ventures (Summer 2027) | Intern | Menlo Park, CA | 2026-10-07 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) |
+| Robinhood | People Partner Intern (Summer 2027) | Intern | New York, NY | 2026-10-07 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src=&gh_jid=8197614) |
+| Robinhood | PeopleX Insights & Analytics Intern (Summer 2027) | Intern | Menlo Park, CA | 2026-10-07 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255) |
+| Robinhood | Security Risk Management Intern (Summer 2027) | Intern | Menlo Park, CA | 2026-10-07 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970) |
+| Robinhood | Special Projects Intern (Summer 2027) | Intern | Menlo Park, CA | 2026-10-07 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198262?t=gh_src=&gh_jid=8198262) |
+| Robinhood | Vendor Management Intern (Summer 2027) | Intern | New York, NY | 2026-10-07 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097) |
+| Datadog | GTM Strategy/Operations Associate | Full-time | New York, New York, USA | 2026-10-07 | [Apply](https://careers.datadoghq.com/detail/8171303/?gh_jid=8171303) |
+| Verkada | Embedded Software Engineering Intern 2027 | Intern | San Mateo, CA United States | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5211595007) |
+| Verkada | Mobile Software Engineering Intern 2027 | Intern | San Mateo, CA United States | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5219131007) |
+| Figma | Early Career, Associate Product Manager (2027) | Full-time | San Francisco, CA | 2026-10-07 | [Apply](https://boards.greenhouse.io/figma/jobs/6180116004?gh_jid=6180116004) |
+| Coinbase | Institutional Operations Intern | Intern | Hybrid - New York, NY | 2026-10-06 | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
+| Affirm | Software Engineer, Early Career (NYC) | Full-time | New York, New York, United States | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008649003) |
+| Affirm | Software Engineer, Early Career (SF) | Full-time | San Francisco, California, United States | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8010617003) |
+| Lyft | Applied Scientist Intern, PhD (Summer 2027) | Intern | San Francisco, CA | 2026-10-06 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) |
+| Lyft | PhD Machine Learning Software Engineer Intern (Summer 2027) | Intern | San Francisco, CA | 2026-10-06 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
 | Coinbase | People Analytics Intern | Intern | Hybrid - New York, NY | 2026-10-05 | [Apply](https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517) |
-| Roblox | [2027] Associate Product Designer, Early Career | Full-time | San Mateo, CA, United States | 2026-10-05 | [Apply](https://careers.roblox.com/jobs/8143982?gh_jid=8143982) |
-| Roblox | [2027] Associate Product Manager, Early Career | Full-time | San Mateo, CA, United States | 2026-10-05 | [Apply](https://careers.roblox.com/jobs/8143976?gh_jid=8143976) |
-| Roblox | [2027] Software Engineer, Early Career | Full-time | San Mateo, CA, United States | 2026-10-05 | [Apply](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) |
-| Roblox | Business Operations Associate | Full-time | San Mateo, CA, United States | 2026-10-05 | [Apply](https://careers.roblox.com/jobs/8120368?gh_jid=8120368) |
-| Roblox | [Summer 2027] Product Design Intern | Intern | San Mateo, CA, United States | 2026-10-05 | [Apply](https://careers.roblox.com/jobs/8143984?gh_jid=8143984) |
-| Roblox | [Summer 2027] Product Management Intern | Intern | San Mateo, CA, United States | 2026-10-05 | [Apply](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) |
-| Roblox | [Summer 2027] Software Engineer Intern | Intern | San Mateo, CA, United States | 2026-10-05 | [Apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |
-| MongoDB | Associate Commercial Growth Account Executive | Full-time | Austin | 2026-10-04 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7615794) |
-| Pinterest | UX Quantitative Research Intern (USA) | Intern | Remote, US | 2026-10-03 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) |
-| Databricks | Associate I, Business Operations | Full-time | USCA | 2026-10-02 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8821953002) |
-| Databricks | Product Management Intern (2026) - Belgrade | Intern | Belgrade, Serbia | 2026-10-02 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002) |
+| Verkada | Security Software Engineering Intern 2027 | Intern | San Mateo, CA United States | 2026-10-05 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5213881007) |
+| Oscar Health | Associate, National Provider Contracting | Full-time | Remote | 2026-10-05 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8257364) |
+| Figma | PhD Intern, AI Applied Scientist (2027) | Intern | San Francisco, CA • New York, NY | 2026-10-05 | [Apply](https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004) |
+| Flexport | Air Operations Associate | Full-time | Phnom Penh, Cambodia | 2026-10-05 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/7774349) |
+| Gusto | Future Opportunities: Early Career Sales Talent | Full-time | Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid | 2026-10-05 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8001931) |
+| Duolingo | Illustrator, Intern | Intern | Detroit, MI | 2026-10-05 | [Apply](https://careers.duolingo.com/jobs/8863967002?gh_jid=8863967002) |
 | Databricks | Software Engineering Intern (2027 Start) - Belgrade | Intern | Belgrade, Serbia | 2026-10-02 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002) |
-| Stripe | Comms Strategy & Operations Associate | Full-time | NYC, SF | 2026-10-02 | [Apply](https://stripe.com/jobs/search?gh_jid=8241857) |
 | Coinbase | Broker Dealer Operations, Associate | Full-time | Remote - USA | 2026-10-02 | [Apply](https://www.coinbase.com/careers/positions/8248775?gh_jid=8248775) |
-| Coinbase | Trade Surveillance Associate, Derivatives | Full-time | Remote - USA | 2026-10-02 | [Apply](https://www.coinbase.com/careers/positions/8142975?gh_jid=8142975) |
-| Affirm | Software Engineer Intern (Summer 2027) | Intern | San Francisco, California, United States | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003) |
-| Affirm | Software Engineer (Machine Learning) Intern (Summer 2027) | Intern | San Francisco, California, United States | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003) |
-| Robinhood | Customer Experience Associate, Trump Accounts Resolutions Desk | Full-time | Westlake, TX | 2026-10-02 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8168392?t=gh_src=&gh_jid=8168392) |
-| Robinhood | Futures & Prediction Market Operations Intern (Summer 2027) | Intern | Chicago, IL | 2026-10-02 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8187309?t=gh_src=&gh_jid=8187309) |
 | Pinterest | Master's Data Science Internship 2027 (USA) | Intern | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US | 2026-10-02 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) |
 | Pinterest | Master's Machine Learning Internship 2027 (USA) | Intern | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US | 2026-10-02 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) |
 | Pinterest | Master's University Grad Data Scientist (USA) | Full-time | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US | 2026-10-02 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) |
@@ -44,51 +125,34 @@ _Last updated: 2026-10-05 · 281 open roles_
 | Pinterest | PhD Data Science Internship 2027 (USA) | Intern | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US | 2026-10-02 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) |
 | Pinterest | PhD Machine Learning Internship 2027 (USA) | Intern | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US | 2026-10-02 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140140) |
 | Pinterest | PhD University Grad Machine Learning Engineer (USA)  | Full-time | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | 2026-10-02 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140363) |
-| Pinterest | Software Engineer Intern 2027 (USA) | Intern | San Francisco, CA, US; Remote, US | 2026-10-02 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) |
 | Pinterest | University Grad Software Engineer 2027 (USA) | Full-time | San Francisco, CA, US; Remote, US | 2026-10-02 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7838591) |
-| Pinterest | UX Engineering Intern (San Francisco) | Intern | San Francisco, CA, US | 2026-10-02 | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140210) |
-| Oscar Health | Strategic Insights Associate, Data Analytics | Full-time | New York, New York, United States | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8249773) |
-| Oscar Health | Strategic Insights Associate, Data Analytics | Full-time | Tempe, Arizona, United States | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8250129) |
-| Oscar Health | Strategic Insights Associate, Data Analytics | Full-time | Atlanta, Georgia, United States | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8250195) |
-| Oscar Health | Strategic Insights Associate, Data Analytics | Full-time | Dallas, Texas, United States | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8250197) |
 | Brex | Startup Partnerships Associate | Full-time | San Francisco, California, United States | 2026-10-02 | [Apply](https://www.brex.com/careers/8864643002?gh_jid=8864643002) |
 | Brex | Venture Partnerships Associate | Full-time | San Francisco, California, United States | 2026-10-02 | [Apply](https://www.brex.com/careers/8864648002?gh_jid=8864648002) |
-| Stripe | Data Analyst, Intern | Intern | New York, Seattle, South San Francisco HQ | 2026-10-01 | [Apply](https://stripe.com/jobs/search?gh_jid=8194291) |
-| Stripe | High School Internship, Software Engineering (Summer 2027) | Intern | Seattle, San Francisco | 2026-10-01 | [Apply](https://stripe.com/jobs/search?gh_jid=8241260) |
-| Stripe | PhD Data Scientist, Intern | Intern | New York, Seattle, South San Francisco HQ | 2026-10-01 | [Apply](https://stripe.com/jobs/search?gh_jid=8194283) |
-| Samsara | Account Development Representative Intern - Phoenix | Intern | Phoenix, Arizona, United States | 2026-10-01 | [Apply](https://www.samsara.com/company/careers/roles/8099799?gh_jid=8099799) |
-| Stripe | Legal/ Corporate Compliance Operations Associate | Full-time | N/A | 2026-09-30 | [Apply](https://stripe.com/jobs/search?gh_jid=8230274) |
 | Coinbase | Analytics Engineer Intern | Intern | Hybrid - New York, NY | 2026-09-30 | [Apply](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
 | Coinbase | Data Science Intern | Intern | Hybrid - New York, NY | 2026-09-30 | [Apply](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) |
 | Coinbase | Experiential Marketing Associate | Full-time | Remote - USA | 2026-09-30 | [Apply](https://www.coinbase.com/careers/positions/8238576?gh_jid=8238576) |
 | Coinbase | Policy Intern | Intern | Hybrid - New York, NY | 2026-09-30 | [Apply](https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556) |
 | Robinhood | Software Engineering Intern, Web (Summer 2027) | Intern | Menlo Park, CA; New York, NY | 2026-09-30 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963) |
 | Datadog | Software Engineering Intern (Summer) | Intern | Boston, Massachusetts, USA; New York, New York, USA | 2026-09-30 | [Apply](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) |
-| Oscar Health | Associate, Member and Provider Optimization | Full-time | Atlanta, Georgia, United States | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8167122) |
 | Oscar Health | Associate, Member and Provider Optimization | Full-time | Dallas, Texas, United States | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8167131) |
 | Oscar Health | Associate, Member and Provider Optimization | Full-time | Atlanta, Georgia, United States | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8044667) |
 | Oscar Health | Associate, Member and Provider Optimization | Full-time | Tempe, Arizona, United States | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8167119) |
-| Oscar Health | Associate, Operational Forecasting | Full-time | Tempe, Arizona, United States | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8109966) |
+| Oscar Health | Associate, Member and Provider Optimization | Full-time | Atlanta, Georgia, United States | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8167122) |
 | Oscar Health | Associate, Operational Forecasting | Full-time | New York, New York, United States | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8103001) |
-| Lyft | Business Sales Associate | Full-time | San Francisco, CA | 2026-09-30 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8823445002?gh_jid=8823445002) |
+| Oscar Health | Associate, Operational Forecasting | Full-time | Tempe, Arizona, United States | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8109966) |
 | Lyft | Business Sales Associate | Full-time | New York, NY | 2026-09-30 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8823395002?gh_jid=8823395002) |
-| SoFi | Mailroom Associate I | Full-time | United States | 2026-09-30 | [Apply](https://sofi.com/careers/job/7993168003?gh_jid=7993168003) |
-| SoFi | Strategic Partnerships Associate | Full-time | United States | 2026-09-30 | [Apply](https://sofi.com/careers/job/7976542003?gh_jid=7976542003) |
+| Lyft | Business Sales Associate | Full-time | San Francisco, CA | 2026-09-30 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8823445002?gh_jid=8823445002) |
 | OpenAI | Account Associate - SF | Full-time | San Francisco | 2026-09-30 | [Apply](https://jobs.ashbyhq.com/openai/55f36629-8351-41d9-b2f5-3d63c5e26bf7) |
 | Samsara | Associate Sales Engineer, SE Desk - Mid West | Full-time | Remote - US | 2026-09-29 | [Apply](https://www.samsara.com/company/careers/roles/7311761?gh_jid=7311761) |
 | Samsara | Associate Sales Engineer, SE Desk - Northeast | Full-time | Remote - US | 2026-09-29 | [Apply](https://www.samsara.com/company/careers/roles/7311741?gh_jid=7311741) |
 | Samsara | Associate Sales Engineer, SE Desk - Southeast | Full-time | Remote - US | 2026-09-29 | [Apply](https://www.samsara.com/company/careers/roles/7848351?gh_jid=7848351) |
 | Samsara | Associate Sales Engineer, SE Desk - TOLA | Full-time | Remote - US | 2026-09-29 | [Apply](https://www.samsara.com/company/careers/roles/7848363?gh_jid=7848363) |
 | Robinhood | Associate Product Manager (New Grad) | Full-time | New York, NY | 2026-09-29 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8199973?t=gh_src=&gh_jid=8199973) |
-| Robinhood | Crypto Accounting Intern (Summer 2027) | Intern | New York, NY | 2026-09-29 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src=&gh_jid=8198153) |
-| Robinhood | Data Science Intern (Summer 2027) | Intern | Menlo Park, CA | 2026-09-29 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&gh_jid=8241738) |
 | Robinhood | Software Engineering Intern, Android (Summer 2027) | Intern | Menlo Park, CA; New York, NY | 2026-09-29 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961) |
 | Robinhood | Software Engineering Intern, Backend (Summer 2027) | Intern | Bellevue, WA; Menlo Park, CA; New York, NY | 2026-09-29 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225) |
 | Robinhood | Software Engineering Intern, iOS (Summer 2027) | Intern | Menlo Park, CA; New York, NY | 2026-09-29 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959) |
 | Datadog | Customer Success Associate (Portuguese Speaking) | Full-time | Boston, Massachusetts, USA | 2026-09-29 | [Apply](https://careers.datadoghq.com/detail/8186363/?gh_jid=8186363) |
 | Datadog | Customer Success Associate (Spanish Speaking) | Full-time | Boston, Massachusetts, USA | 2026-09-29 | [Apply](https://careers.datadoghq.com/detail/8186361/?gh_jid=8186361) |
-| Datadog | GTM Strategy and Operations Associate | Full-time | New York, New York, USA | 2026-09-29 | [Apply](https://careers.datadoghq.com/detail/7843331/?gh_jid=7843331) |
-| Datadog | GTM Strategy/Operations Associate | Full-time | New York, New York, USA | 2026-09-29 | [Apply](https://careers.datadoghq.com/detail/8171303/?gh_jid=8171303) |
 | Datadog | GTM Strategy/Operations Associate - New York | Full-time | New York, New York, USA | 2026-09-29 | [Apply](https://careers.datadoghq.com/detail/8179647/?gh_jid=8179647) |
 | Datadog | Product Management Intern | Intern | New York, New York, USA | 2026-09-29 | [Apply](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) |
 | Datadog | Research Science Intern (PhD) | Intern | New York, New York, USA; Pittsburgh, Pennsylvania, USA | 2026-09-29 | [Apply](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) |
@@ -103,84 +167,37 @@ _Last updated: 2026-10-05 · 281 open roles_
 | Brex | Implementation Consultant I, Commercial | Full-time | Salt Lake City, Utah, United States | 2026-09-29 | [Apply](https://www.brex.com/careers/8536986002?gh_jid=8536986002) |
 | Brex | Implementation Consultant I, Commercial | Full-time | Seattle, Washington, United States | 2026-09-29 | [Apply](https://www.brex.com/careers/8536985002?gh_jid=8536985002) |
 | Roblox | People Business Associate (Short-term) | Full-time | San Mateo, CA, United States | 2026-09-29 | [Apply](https://careers.roblox.com/jobs/8107093?gh_jid=8107093) |
-| Gusto | Conversion Operations Associate | Full-time | Denver, CO - Hybrid | 2026-09-29 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8143042) |
-| Gusto | Future Opportunities: Early Career Sales Talent | Full-time | Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid | 2026-09-29 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8001931) |
-| Nuro | Social Media Intern | Intern | Mountain View, California (HQ) | 2026-09-29 | [Apply](https://nuro.ai/careersitem?gh_jid=8222063) |
 | Verkada | Backend Software Engineering Intern 2027 | Intern | San Mateo, CA United States | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5210813007) |
-| Verkada | Embedded Software Engineering Intern 2027 | Intern | San Mateo, CA United States | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5211595007) |
 | Verkada | Frontend Software Engineering Intern 2027 | Intern | San Mateo, CA United States | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5210942007) |
 | Verkada | Hardware Engineer (Winter Co-op) | Intern | San Mateo, CA United States | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4321158007) |
-| Verkada | Mobile Software Engineering Intern 2027 | Intern | San Mateo, CA United States | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5219131007) |
 | Verkada | Product Design Mechanical Engineer (Winter Co-op) | Intern | San Mateo, CA United States | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4288829007) |
 | Verkada | Sales Strategy and Operations Associate | Full-time | San Mateo, CA United States | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4086576007) |
-| Verkada | Security Software Engineering Intern 2027 | Intern | San Mateo, CA United States | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5213881007) |
 | Verkada | Technical Support Engineering Intern - Spring 2027 | Intern | San Mateo, CA United States | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5056164007) |
 | Verkada | Technical Support Engineering Intern - Summer 2027 | Intern | San Mateo, CA United States | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5233011007) |
 | Verkada | Technical Support Engineer - University Graduate 2026 | Full-time | San Mateo, CA United States | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4715534007) |
 | Verkada | Technical Support Engineer - University Graduate 2027 | Full-time | San Mateo, CA United States | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5121488007) |
-| Lyft | Applied Scientist Intern (Summer 2027) | Intern | San Francisco, CA | 2026-09-28 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) |
-| Flexport | Air Operations Associate | Full-time | Phnom Penh, Cambodia | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/7774349) |
 | Coinbase | Software Engineer Intern | Intern | Hybrid - San Francisco, CA | 2026-09-27 | [Apply](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315) |
-| Stripe | Critical Support Operations Associate, Weekend Coverage | Full-time | N/A | 2026-09-25 | [Apply](https://stripe.com/jobs/search?gh_jid=8175816) |
-| Stripe | Software Engineer, Early Career — Immediate Start | Full-time | San Francisco, Seattle, New York | 2026-09-25 | [Apply](https://stripe.com/jobs/search?gh_jid=8212508) |
-| Stripe | Software Engineer, Intern  | Intern | Bucharest | 2026-09-25 | [Apply](https://stripe.com/jobs/search?gh_jid=8130807) |
-| Stripe | Software Engineer, Intern (Summer or Winter) | Intern | San Francisco, Seattle, New York City | 2026-09-25 | [Apply](https://stripe.com/jobs/search?gh_jid=8128745) |
-| Stripe | Software Engineer, New Grad | Full-time | San Francisco, Seattle, New York | 2026-09-25 | [Apply](https://stripe.com/jobs/search?gh_jid=8128744) |
-| Stripe | Software Engineer, New Grad | Full-time | Bucharest | 2026-09-25 | [Apply](https://stripe.com/jobs/search?gh_jid=8130922) |
-| Samsara | Account Development Representative Intern - Atlanta | Intern | Atlanta, Georgia, United States | 2026-09-25 | [Apply](https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119) |
 | Samsara | Associate Sales Engineer, SE Desk (French Bilingual) | Full-time | Remote - US | 2026-09-25 | [Apply](https://www.samsara.com/company/careers/roles/7624120?gh_jid=7624120) |
-| Samsara | Associate Specialist Sales Engineer | Full-time | Remote - US | 2026-09-25 | [Apply](https://www.samsara.com/company/careers/roles/7717258?gh_jid=7717258) |
 | Samsara | Electrical Engineering Co-Op | Intern | San Francisco - SF9 | 2026-09-25 | [Apply](https://www.samsara.com/company/careers/roles/8163118?gh_jid=8163118) |
 | Samsara | Firmware Engineer Co-Op | Intern | San Francisco - SF9 | 2026-09-25 | [Apply](https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602) |
-| Samsara | Software Engineering Internship - San Francisco  | Intern | San Francisco - SF9 | 2026-09-25 | [Apply](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) |
-| Robinhood | Brokerage Operations Intern (Summer 2027) | Intern | Chicago, IL | 2026-09-25 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198198?t=gh_src=&gh_jid=8198198) |
-| Robinhood | Brokerage Risk Analyst Intern (Summer 2027) | Intern | Chicago, IL | 2026-09-25 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198223?t=gh_src=&gh_jid=8198223) |
-| Robinhood | Business Analyst Intern (Summer 2027) | Intern | Washington, DC | 2026-09-25 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8123238?t=gh_src=&gh_jid=8123238) |
-| Robinhood | Crypto Operations Intern (Summer 2027) | Intern | New York, NY | 2026-09-25 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8193484?t=gh_src=&gh_jid=8193484) |
-| Robinhood | Crypto Partnership Intern (Summer 2027) | Intern | New York, NY | 2026-09-25 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8193710?t=gh_src=&gh_jid=8193710) |
-| Robinhood | Finance and Strategy Intern (Summer 2027) | Intern | Menlo Park, CA | 2026-09-25 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198142?t=gh_src=&gh_jid=8198142) |
 | Robinhood | Fraud Operations Intern (Summer 2027) | Intern | Denver, CO | 2026-09-25 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src=&gh_jid=8198241) |
-| Robinhood | Growth Marketing Intern (Summer 2027) | Intern | Menlo Park, CA | 2026-09-25 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8192367?t=gh_src=&gh_jid=8192367) |
-| Robinhood | Investment Analyst Intern, Robinhood Ventures (Summer 2027) | Intern | Menlo Park, CA | 2026-09-25 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) |
-| Robinhood | Offensive Security Intern (Summer 2027) | Intern | Bellevue, WA; Menlo Park, CA | 2026-09-25 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&gh_jid=8214142) |
-| Robinhood | People Partner Intern (Summer 2027) | Intern | New York, NY | 2026-09-25 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src=&gh_jid=8197614) |
-| Robinhood | PeopleX Insights & Analytics Intern (Summer 2027) | Intern | Menlo Park, CA | 2026-09-25 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255) |
-| Robinhood | Security Risk Management Intern (Summer 2027) | Intern | Menlo Park, CA | 2026-09-25 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970) |
-| Robinhood | Special Projects Intern (Summer 2027) | Intern | Menlo Park, CA | 2026-09-25 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198262?t=gh_src=&gh_jid=8198262) |
-| Robinhood | Vendor Management Intern (Summer 2027) | Intern | New York, NY | 2026-09-25 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097) |
 | Oscar Health | Network Contracting & Services Associate | Full-time | Remote | 2026-09-25 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8080961) |
-| Vercel | Software Engineering Intern - Summer '27 | Intern | Hybrid - San Francisco | 2026-09-24 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6181759004) |
-| Vercel | Software Engineering Intern - Winter '27 | Intern | Hybrid - San Francisco | 2026-09-24 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6181755004) |
-| MongoDB | Associate, HR Shared Services | Full-time | Gurugram | 2026-09-24 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8173777) |
-| MongoDB | Associate Third-Party Risk Management (TPRM) Risk Analyst | Full-time | United States | 2026-09-24 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8212146) |
-| MongoDB | Product Pricing & Monetization Strategy - Associate | Full-time | New York City | 2026-09-24 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7523751) |
-| MongoDB | Sales Support Associate | Full-time | Gurugram | 2026-09-24 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8226033) |
 | Ramp | Software Engineer Internship, Frontend | Intern | New York, NY (HQ) | 2026-09-24 | [Apply](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74) |
 | Ramp | Software Engineering Intern, Android | Intern | New York, NY (HQ) | 2026-09-24 | [Apply](https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8) |
 | Ramp | Software Engineering Intern, iOS | Intern | New York, NY (HQ) | 2026-09-24 | [Apply](https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9) |
 | Notion | Software Engineer Intern, Mobile (Winter 2027) | Intern | San Francisco, California | 2026-09-24 | [Apply](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) |
-| Spotify | RecSys 2026 — Intern | Intern | New York, NY | 2026-09-24 | [Apply](https://jobs.lever.co/spotify/e7f6e680-bf86-4da6-8711-afe44b84fa41) |
 | Databricks | Associate Product Manager, New Grad (2027 Start) | Full-time | Bellevue, Washington; Mountain View, California; San Francisco, California | 2026-09-23 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002) |
 | Databricks | Product Management Intern (Summer 2027) | Intern | Bellevue, Washington; Mountain View, California; San Francisco, California | 2026-09-23 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) |
 | Databricks | Software Engineering Intern (2027 Start) - Winter | Intern | Bellevue, Washington; Mountain View, California; San Francisco, California | 2026-09-23 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) |
 | Oscar Health | Associate, Health System Contracting | Full-time | Remote | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8145078) |
 | Oscar Health | Associate, Medical Economics | Full-time | Remote | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8023759) |
-| Oscar Health | Associate, National Provider Contracting | Full-time | Dallas, Texas, United States | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8145060) |
 | Oscar Health | Associate, Network Contracting (Central Region) | Full-time | Remote | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8168122) |
 | Oscar Health | Associate, Network Contracting (Northeast Region) | Full-time | New York, New York, United States | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8145032) |
 | Oscar Health | Associate, Process Improvement | Full-time | Tempe, Arizona, United States | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8172528) |
+| Oscar Health | Associate, Process Improvement | Full-time | Dallas, Texas, United States | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8172530) |
 | Oscar Health | Associate, Process Improvement | Full-time | Atlanta, Georgia, United States | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8172529) |
 | Oscar Health | Associate, Process Improvement | Full-time | New York, New York, United States | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8146250) |
-| Oscar Health | Associate, Process Improvement | Full-time | Dallas, Texas, United States | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8172530) |
-| Oscar Health | Associate, Provider Success | Full-time | Dallas, Texas, United States | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8163562) |
-| Oscar Health | Associate, Provider Success | Full-time | Tempe, Arizona, United States | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8163561) |
-| Oscar Health | Associate, Provider Success | Full-time | Atlanta, Georgia, United States | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8163563) |
-| Oscar Health | Associate, Provider Success | Full-time | New York, New York, United States | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8154397) |
 | Oscar Health | Associate, Value Based Contracting | Full-time | Remote | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8168124) |
-| Oscar Health | Process Management Associate, Provider Operations | Full-time | Atlanta, Georgia, United States | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8157664) |
-| Oscar Health | Process Management Associate, Provider Operations | Full-time | New York, New York, United States | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8146248) |
-| Oscar Health | Process Management Associate, Provider Operations | Full-time | Tempe, Arizona, United States | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8157631) |
-| Oscar Health | Process Management Associate, Provider Operations | Full-time | Dallas, Texas, United States | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8157655) |
 | Oscar Health | Provider Network Associate  | Full-time | Remote | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8178503) |
 | Figma | Data Engineer Intern (2027) | Intern | San Francisco, CA • New York, NY | 2026-09-23 | [Apply](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) |
 | Carta | Treasury Associate | Full-time | San Francisco, CA; New York, NY; Sandy, UT | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/carta/jobs/8004092003) |
@@ -188,58 +205,48 @@ _Last updated: 2026-10-05 · 281 open roles_
 | Replit | Support Engineer I (NYC, Weekend Shift) | Full-time | NYC (SoHo) | 2026-09-23 | [Apply](https://jobs.ashbyhq.com/replit/4e64e46f-f69d-4454-89b6-bd27302a464d) |
 | Coinbase | Accelerations Programs Intern | Intern | Hybrid - New York, NY | 2026-09-22 | [Apply](https://www.coinbase.com/careers/positions/8175363?gh_jid=8175363) |
 | Coinbase | Employee and Workplace Experience Intern | Intern | Hybrid - New York, NY | 2026-09-22 | [Apply](https://www.coinbase.com/careers/positions/8175429?gh_jid=8175429) |
-| Coinbase | Institutional Operations Intern | Intern | Hybrid - New York, NY | 2026-09-22 | [Apply](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) |
 | Coinbase | Learning & Development Intern | Intern | Hybrid - New York, NY | 2026-09-22 | [Apply](https://www.coinbase.com/careers/positions/8175514?gh_jid=8175514) |
-| Coinbase | Product Manager (HR Technology) Intern | Intern | Hybrid - New York, NY | 2026-09-22 | [Apply](https://www.coinbase.com/careers/positions/8175504?gh_jid=8175504) |
 | Coinbase | Real Estate & Builds Intern | Intern | Hybrid - New York, NY | 2026-09-22 | [Apply](https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507) |
 | Instacart | Billing Operations Associate | Full-time | United States - Remote | 2026-09-22 | [Apply](https://instacart.careers/job/?gh_jid=8219806) |
 | Figma | Early Career, Product Designer (2027) | Full-time | San Francisco, CA • New York, NY | 2026-09-22 | [Apply](https://boards.greenhouse.io/figma/jobs/6180053004?gh_jid=6180053004) |
 | Figma | PhD Intern, Data Science (2027) | Intern | San Francisco, CA • New York, NY | 2026-09-22 | [Apply](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) |
-| Databricks | PhD GenAI Research Scientist Intern | Intern | San Francisco, California | 2026-09-21 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) |
 | Coinbase | Internal Audit Analytics Intern | Intern | Hybrid - New York, NY | 2026-09-21 | [Apply](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) |
 | Coinbase | Tax Information Reporting Intern | Intern | Hybrid - New York, NY | 2026-09-21 | [Apply](https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241) |
 | Flexport | Global Operations Associate | Full-time | Dallas, Texas, United States | 2026-09-21 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8221466) |
-| Nuro | Software Engineer, AI Platform - New Grad | Full-time | Mountain View, California (HQ) | 2026-09-21 | [Apply](https://nuro.ai/careersitem?gh_jid=7351066) |
 | Brex | Finance Associate | Full-time | San Francisco, California, United States | 2026-09-17 | [Apply](https://www.brex.com/careers/8606210002?gh_jid=8606210002) |
 | Figma | Software Engineer Intern (Summer 2027) | Intern | San Francisco, CA • New York, NY | 2026-09-17 | [Apply](https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004) |
-| Figma | Software Engineer Intern (Winter 2027) | Intern | San Francisco, CA • New York, NY | 2026-09-17 | [Apply](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) |
 | Lyft | Data Science Intern, Algorithms (Summer 2027 - SF/NYC) | Intern | New York, NY | 2026-09-17 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) |
 | Lyft | Data Science Intern, Algorithms (Summer 2027 - SF/NYC) | Intern | San Francisco, CA | 2026-09-17 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) |
 | Lyft | Software Engineer Intern, Backend (Summer 2027 - SF) | Intern | San Francisco, CA | 2026-09-17 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) |
 | Ramp | Associate GTM Recruiter | Full-time | San Francisco, CA | 2026-09-17 | [Apply](https://jobs.ashbyhq.com/ramp/a85afad0-8051-4333-ae89-0f82321dea87) |
 | Brex | Finance Associate | Full-time | New York, New York, United States | 2026-09-16 | [Apply](https://www.brex.com/careers/8606825002?gh_jid=8606825002) |
-| Brex | Support Specialist I | Full-time | Salt Lake City, Utah, United States | 2026-09-16 | [Apply](https://www.brex.com/careers/8815805002?gh_jid=8815805002) |
 | Carta | Junior Paralegal, Contracts | Full-time | Seattle,WA; Sandy,UT; Dallas,TX | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/carta/jobs/7997383003) |
 | Instacart | Sales Associate | Full-time | United States - Remote | 2026-09-15 | [Apply](https://instacart.careers/job/?gh_jid=7572155) |
 | Instacart | Sales Associate - San Francisco/Los Angeles | Full-time | United States - Remote | 2026-09-15 | [Apply](https://instacart.careers/job/?gh_jid=7560993) |
 | Figma | Data Science Intern (2027) | Intern | San Francisco, CA • New York, NY | 2026-09-15 | [Apply](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) |
-| Duolingo | Associate Product Manager, Intern | Intern | Pittsburgh, PA | 2026-09-15 | [Apply](https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002) |
 | Ramp | Applied Scientist Intern | Intern | New York, NY (HQ) | 2026-09-15 | [Apply](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) |
 | Oscar Health | Analytics Engineer I | Full-time | New York, New York, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/7914958) |
 | Oscar Health | Associate, Actuarial | Full-time | Remote | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8069495) |
-| Oscar Health | Associate, Member and Provider Optimization | Full-time | New York, New York, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8103026) |
 | Oscar Health | Associate, Member and Provider Optimization | Full-time | New York, New York, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8031791) |
 | Oscar Health | Associate, Member and Provider Optimization | Full-time | Tempe, Arizona, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8044675) |
 | Oscar Health | Associate, Member and Provider Optimization | Full-time | Dallas, Texas, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8044682) |
-| Oscar Health | Associate, Payment Integrity IBR | Full-time | Remote | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8146212) |
-| Oscar Health | Associate, Payment Integrity IBR | Full-time | Tempe, Arizona, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8154911) |
-| Oscar Health | Associate, Payment Integrity IBR | Full-time | New York, New York, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8154908) |
-| Oscar Health | Associate, Process Optimization | Full-time | Atlanta, Georgia, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8147979) |
-| Oscar Health | Associate, Process Optimization | Full-time | New York, New York, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8107490) |
+| Oscar Health | Associate, Member and Provider Optimization | Full-time | New York, New York, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8103026) |
 | Oscar Health | Associate, Process Optimization | Full-time | Tempe, Arizona, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8147966) |
 | Oscar Health | Associate, Process Optimization | Full-time | Dallas, Texas, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8147977) |
-| Oscar Health | Associate, Risk/Compliance | Full-time | New York, New York, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8164914) |
+| Oscar Health | Associate, Process Optimization | Full-time | Atlanta, Georgia, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8147979) |
+| Oscar Health | Associate, Process Optimization | Full-time | New York, New York, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8107490) |
+| Oscar Health | Associate, Risk/Compliance | Full-time | Tempe, Arizona, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8177761) |
 | Oscar Health | Associate, Risk/Compliance | Full-time | Dallas, Texas, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8177790) |
 | Oscar Health | Associate, Risk/Compliance | Full-time | Atlanta, Georgia, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8177797) |
-| Oscar Health | Associate, Risk/Compliance | Full-time | Tempe, Arizona, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8177761) |
-| Oscar Health | Associate, Strategic Finance | Full-time | Atlanta, Georgia, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8013108) |
-| Oscar Health | Associate, Strategic Finance | Full-time | Dallas, Texas, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8013107) |
-| Oscar Health | Associate, Strategic Finance | Full-time | Tempe, Arizona, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8013106) |
+| Oscar Health | Associate, Risk/Compliance | Full-time | New York, New York, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8164914) |
 | Oscar Health | Associate, Strategic Finance | Full-time | New York, New York, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8011066) |
-| Oscar Health | Associate, Strategic Finance (FP&A) | Full-time | Atlanta, Georgia, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8147968) |
-| Oscar Health | Associate, Strategic Finance (FP&A) | Full-time | Dallas, Texas, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8147965) |
-| Oscar Health | Associate, Strategic Finance (FP&A) | Full-time | Tempe, Arizona, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8147942) |
+| Oscar Health | Associate, Strategic Finance | Full-time | Tempe, Arizona, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8013106) |
+| Oscar Health | Associate, Strategic Finance | Full-time | Dallas, Texas, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8013107) |
+| Oscar Health | Associate, Strategic Finance | Full-time | Atlanta, Georgia, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8013108) |
 | Oscar Health | Associate, Strategic Finance (FP&A) | Full-time | New York, New York, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8129152) |
+| Oscar Health | Associate, Strategic Finance (FP&A) | Full-time | Tempe, Arizona, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8147942) |
+| Oscar Health | Associate, Strategic Finance (FP&A) | Full-time | Dallas, Texas, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8147965) |
+| Oscar Health | Associate, Strategic Finance (FP&A) | Full-time | Atlanta, Georgia, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/8147968) |
 | Oscar Health | Data Scientist I | Full-time | New York, New York, United States | 2026-09-14 | [Apply](https://job-boards.greenhouse.io/oscar/jobs/7592274) |
 | Figma | Product Design Intern (2027) | Intern | San Francisco, CA • New York, NY | 2026-09-14 | [Apply](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) |
 | Ramp | Customer Experience Associate (Evening Shift) | Full-time | New York, NY (HQ) | 2026-09-14 | [Apply](https://jobs.ashbyhq.com/ramp/40f43993-21e8-4db1-a9f4-7a3e6098a9ba) |
@@ -268,17 +275,14 @@ _Last updated: 2026-10-05 · 281 open roles_
 | Lyft | Operations Associate | Full-time | Cleveland, OH | 2026-09-04 | [Apply](https://app.careerpuck.com/job-board/lyft/job/8780060002?gh_jid=8780060002) |
 | Carta | Junior Inbound Compliance Analyst (KYC) | Full-time | Sandy, Utah; Seattle, Washington; New York, NY | 2026-09-04 | [Apply](https://job-boards.greenhouse.io/carta/jobs/7904721003) |
 | Brex | Fraud Operations Associate | Full-time | Salt Lake City, Utah, United States | 2026-08-31 | [Apply](https://www.brex.com/careers/8698160002?gh_jid=8698160002) |
-| Brex | Fraud Operations Associate | Full-time | San Francisco, California, United States | 2026-08-31 | [Apply](https://www.brex.com/careers/8698276002?gh_jid=8698276002) |
 | Brex | Fraud Operations Associate | Full-time | Seattle, Washington, United States | 2026-08-31 | [Apply](https://www.brex.com/careers/8698277002?gh_jid=8698277002) |
+| Brex | Fraud Operations Associate | Full-time | San Francisco, California, United States | 2026-08-31 | [Apply](https://www.brex.com/careers/8698276002?gh_jid=8698276002) |
 | Brex | Fraud Operations Associate | Full-time | New York, New York, United States | 2026-08-31 | [Apply](https://www.brex.com/careers/8698248002?gh_jid=8698248002) |
 | Carta | Loan Operations Associate | Full-time | New York, NY; Hamilton, NJ | 2026-08-31 | [Apply](https://job-boards.greenhouse.io/carta/jobs/7920603003) |
 | Flexport | Inbound Sales Development Representative - New Grad | Full-time | Chicago, Illinois, United States | 2026-08-28 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/5850324) |
 | Flexport | Ocean Operations Associate | Full-time | Phnom Penh, Cambodia | 2026-08-28 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/7774352) |
 | Flexport | Operations Associate - Join Our Talent Community | Full-time | Atlanta, Georgia, United States; Bellevue, Washington, United States; Chicago, Illinois, United States; Dallas, Texas, United States; Denver, Colorado, United States; Los Angeles, California, United States; New York City, New York, United States; San Francisco, California, United States | 2026-08-28 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/7904839) |
 | Flexport | Sales Development Representative - New Grad | Full-time | Chicago, Illinois, United States | 2026-08-28 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8084127) |
-| Nuro | Associate Fleet Technician, Bay Area | Full-time | California - Santa Clara; California - SF | 2026-08-26 | [Apply](https://nuro.ai/careersitem?gh_jid=7442056) |
-| Nuro | Associate Fleet Technician, Los Angeles | Full-time | California - LA | 2026-08-26 | [Apply](https://nuro.ai/careersitem?gh_jid=7976791) |
-| Nuro | Software Engineer, AI Platform - Intern | Intern | Mountain View, California (HQ) | 2026-08-26 | [Apply](https://nuro.ai/careersitem?gh_jid=7351061) |
 | Ramp | Customer Experience Associate | Full-time | New York, NY (HQ) | 2026-08-26 | [Apply](https://jobs.ashbyhq.com/ramp/d64609dd-c391-45a2-bfdb-c1bb34e8f93c) |
 | Instacart | Activation Sales Development Representative I | Full-time | United States - Remote | 2026-08-24 | [Apply](https://instacart.careers/job/?gh_jid=7144697) |
 | Instacart | Sales Associate - New York | Full-time | United States - Remote | 2026-08-24 | [Apply](https://instacart.careers/job/?gh_jid=7558978) |
@@ -290,9 +294,9 @@ _Last updated: 2026-10-05 · 281 open roles_
 | Carta | Associate, Tax Delivery | Full-time | Seattle, WA | 2026-08-03 | [Apply](https://job-boards.greenhouse.io/carta/jobs/6247992003) |
 | OpenAI | US External Affairs Associate, Global Affairs | Full-time | Washington, DC | 2026-07-31 | [Apply](https://jobs.ashbyhq.com/openai/544af761-e37a-450c-884b-b96506c1b883) |
 | Brex | Technical Consultant I | Full-time | Salt Lake City, Utah, United States | 2026-07-09 | [Apply](https://www.brex.com/careers/8579215002?gh_jid=8579215002) |
-| Brex | Technical Consultant I | Full-time | New York, New York, United States | 2026-07-09 | [Apply](https://www.brex.com/careers/8579199002?gh_jid=8579199002) |
 | Brex | Technical Consultant I | Full-time | Seattle, Washington, United States | 2026-07-09 | [Apply](https://www.brex.com/careers/8579204002?gh_jid=8579204002) |
 | Brex | Technical Consultant I | Full-time | San Francisco, California, United States | 2026-07-09 | [Apply](https://www.brex.com/careers/8579194002?gh_jid=8579194002) |
+| Brex | Technical Consultant I | Full-time | New York, New York, United States | 2026-07-09 | [Apply](https://www.brex.com/careers/8579199002?gh_jid=8579199002) |
 | Spotify | Associate – Audiobook Licensing & Author Partnerships | Full-time | New York, NY | 2026-07-09 | [Apply](https://jobs.lever.co/spotify/4310f31c-90e1-4e8d-bdcf-dce39c145b8c) |
 | Notion | Software Engineer, Early Career (AI) | Full-time | San Francisco, California | 2026-07-06 | [Apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) |
 | Notion | Software Engineer, Early Career | Full-time | San Francisco, California | 2026-07-06 | [Apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) |
